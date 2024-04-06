@@ -61,6 +61,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://cdn.iconscout.com/icon/free/png-512/python-3521655-2945099.png)
+![Angular](https://cdn.iconscout.com/icon/free/png-256/angular-3521608-2944893.png)
+![Django](https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png)
+![Java](https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png)
 
 <br/>
 
