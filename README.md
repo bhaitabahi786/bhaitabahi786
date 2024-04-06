@@ -4,15 +4,15 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
-                <span style="font-size: 45px">&gt; Hey There!, I am
+<h2 align="center">
+                <span> &gt; Hey There!, I am
                                 <b>Rahmat Ali Shaikh</b>
                 </span>
-</h3
+</h2>
 
 
 <p align="center"> 
-    <span style="font-size: 30px">
+    <span >
         <br>
         「 I'm a passionate developer with a keen interest in cyber security. I've learned a lot from online resources and continuously strive to expand my <b> Knowledge ( Because Knowledge = Power = Responsibility )</b> and skills. 」
         <br>
@@ -41,12 +41,10 @@
 &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
 &emsp; Love writing code and learning new features<br/><br/>
 &emsp; Exploring cyber security <br/><br/>
-&emsp; Gaining Knowlegde like Gaining Muscle :laughing: :satisfied: &emsp; :wink:<br/><br/>
+&emsp; Gaining Knowlegde like Gaining Muscle :laughing: &emsp; :wink:<br/><br/>
 &emsp; Ask me about anything [here](https://github.com/bhaitabahi786/bhaitabahi786/issues)
 
 </p>
-<!-- Cool hacker gif -->
-<img src="https://media.giphy.com/media/3oEjHQXtUfz9Ve9ktS/giphy.gif" alt="Cool hacker gif">
 
 <br/>
 <br/>
