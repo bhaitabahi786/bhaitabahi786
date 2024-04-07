@@ -12,12 +12,12 @@
 
 
 <p align="center"> 
-    <span >
+    
         <br>
         「 I'm a passionate developer with a keen interest in cyber security. I've learned a lot from online resources and continuously strive to expand my <b> Knowledge ( Because Knowledge = Power = Responsibility )</b> and skills. 」
         <br>
         <br>
-    </span>
+    
 </p>
 
 <p align="center">
@@ -34,19 +34,14 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
-<p>
+## About me
 
-&emsp; Enjoy doing programming and sharing knowledge <br/><br/>
-&emsp; Love writing code and learning new features<br/><br/>
-&emsp; Exploring cyber security <br/><br/>
-&emsp; Gaining Knowlegde like Gaining Muscle :laughing: &emsp; :wink:<br/><br/>
-&emsp; Ask me about anything [here](https://github.com/bhaitabahi786/bhaitabahi786/issues)
+* Enjoy doing programming and sharing knowledge.
+* Love writing code and learning new features.
+* Exploring cyber security.
+* Gaining Knowlegde like Gaining Muscle :laughing: &emsp; :wink:
+* Ask me about anything [here](https://github.com/bhaitabahi786/bhaitabahi786/issues)
 
-</p>
-
-<br/>
 <br/>
 <br/>
 
@@ -98,7 +93,7 @@
 </p>
 
 <a> 
-        <a href="https://github.com/bhaitabahi786"><img alt="bhai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhaitabahi786&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/bhaitabahi786"><img alt="bhai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhaitabahi786&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <a href="https://github.com/bhaitabahi786"><img alt="bhai Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bhaitabahi786&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <br/>
 </a>
@@ -107,6 +102,26 @@
 ## Hacktoberfest Badges
 
 [![@bhaitabahi786's Holopin board](https://holopin.me/bhaitabahi786)](https://holopin.io/@bhaitabahi786)
+
+## Learning Goals 
+
+- [x] Learning Daily ![50%](https://progress-bar.dev/50)
+- [x] Profile Page Up to Date ![80%](https://progress-bar.dev/80)
+- [x] Learn Django by making Project ![50%](https://progress-bar.dev/50)
+- [x] Learn JavaScript by making Project ![40%](https://progress-bar.dev/40)
+- [ ] Learn Pyscript by making Project ![60%](https://progress-bar.dev/60)
+- [ ] Learn Java ![10%](https://progress-bar.dev/10)
+- [ ] Learn Angular ![0%](https://progress-bar.dev/0)
+- [ ] Learn React ![0%](https://progress-bar.dev/0)
+- [ ] More can be added later ..
+
+## Some Side Hustle
+
+- [ ] Learn Bug Hunting 
+- [ ] Compete in CTF 
+- [ ] Cyber Security Daily Update
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=bhaitabahi786&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
