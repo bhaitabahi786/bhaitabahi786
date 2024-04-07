@@ -1,7 +1,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=bhaitabahi786&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h2 align="center">
@@ -12,12 +11,12 @@
 
 
 <p align="center"> 
-    
+    <span>
         <br>
         「 I'm a passionate developer with a keen interest in cyber security. I've learned a lot from online resources and continuously strive to expand my <b> Knowledge ( Because Knowledge = Power = Responsibility )</b> and skills. 」
         <br>
         <br>
-    
+    </span>
 </p>
 
 <p align="center">
@@ -78,7 +77,7 @@
 ![picoCTF](https://img.shields.io/badge/picoCTF-00FFFF?style=for-the-badge)
 
 
-## Top Open Source Projects
+## Statistics
 
 <p align="center">
     <a href="https://github.com/bhaitabahi786">
@@ -105,14 +104,14 @@
 
 ## Learning Goals 
 
-- [x] Learning Daily ![50%](https://progress-bar.dev/50)
-- [x] Profile Page Up to Date ![80%](https://progress-bar.dev/80)
-- [x] Learn Django by making Project ![50%](https://progress-bar.dev/50)
-- [x] Learn JavaScript by making Project ![40%](https://progress-bar.dev/40)
-- [ ] Learn Pyscript by making Project ![60%](https://progress-bar.dev/60)
-- [ ] Learn Java ![10%](https://progress-bar.dev/10)
-- [ ] Learn Angular ![0%](https://progress-bar.dev/0)
-- [ ] Learn React ![0%](https://progress-bar.dev/0)
+- [x] Learning Daily                        ![50%](https://progress-bar.dev/50/?width=80)
+- [x] Profile Page Up to Date               ![80%](https://progress-bar.dev/80/?width=80)
+- [x] Learn Django by making Project        ![50%](https://progress-bar.dev/50/?width=80)
+- [x] Learn JavaScript by making Project    ![40%](https://progress-bar.dev/40/?width=80)
+- [ ] Learn Pyscript by making Project      ![60%](https://progress-bar.dev/60/?width=80)
+- [ ] Learn Java                            ![10%](https://progress-bar.dev/10/?width=80)
+- [ ] Learn Angular                         ![0%](https://progress-bar.dev/0/?width=80)
+- [ ] Learn React                           ![0%](https://progress-bar.dev/0/?width=80)
 - [ ] More can be added later ..
 
 ## Some Side Hustle
