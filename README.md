@@ -104,14 +104,14 @@
 
 ## Learning Goals 
 
-- [x] Learning Daily                        ![50%](https://progress-bar.dev/50/?width=80)
-- [x] Profile Page Up to Date               ![80%](https://progress-bar.dev/80/?width=80)
-- [x] Learn Django by making Project        ![50%](https://progress-bar.dev/50/?width=80)
-- [x] Learn JavaScript by making Project    ![40%](https://progress-bar.dev/40/?width=80)
-- [ ] Learn Pyscript by making Project      ![60%](https://progress-bar.dev/60/?width=80)
-- [ ] Learn Java                            ![10%](https://progress-bar.dev/10/?width=80)
-- [ ] Learn Angular                         ![0%](https://progress-bar.dev/0/?width=80)
-- [ ] Learn React                           ![0%](https://progress-bar.dev/0/?width=80)
+- [x] ![50%](https://progress-bar.dev/50/?width=120) Learning Daily 
+- [x] ![80%](https://progress-bar.dev/80/?width=120) Profile Page Up to Date 
+- [x] ![50%](https://progress-bar.dev/50/?width=120) Learn Django by making Project 
+- [x] ![40%](https://progress-bar.dev/40/?width=120) Learn JavaScript by making Project 
+- [ ] ![60%](https://progress-bar.dev/60/?width=120) Learn Pyscript by making Project  
+- [ ] ![10%](https://progress-bar.dev/10/?width=120) Learn Java 
+- [ ] ![0%](https://progress-bar.dev/0/?width=120) Learn Angular 
+- [ ] ![0%](https://progress-bar.dev/0/?width=120) Learn React
 - [ ] More can be added later ..
 
 ## Some Side Hustle
