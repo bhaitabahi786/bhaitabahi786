@@ -76,6 +76,11 @@
 ![CTFlearn](https://img.shields.io/badge/CTFlearn-FFA500?style=for-the-badge)
 ![picoCTF](https://img.shields.io/badge/picoCTF-00FFFF?style=for-the-badge)
 
+## DSA 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bhaitabahi786)
+
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/bhaitabahi)
+
 
 ## Statistics
 
